@@ -1,0 +1,197 @@
+# AUTONOMAUTH COMMERCIAL LICENSE AGREEMENT
+
+This AutonomAuth Commercial License Agreement (the "Agreement") is entered into as of the Effective Date by and between Owl and a Bungee Cord LLC ("Licensor"), a United States LLC, and the entity or individual agreeing to these terms ("Licensee").
+
+## 1. DEFINITIONS
+
+1.1 "Documentation" means any user manuals, technical documentation, and other printed or electronic materials provided by Licensor related to the Software.
+
+1.2 "Effective Date" means the date Licensee agrees to these terms or the date Licensee first uses the Software, whichever is earlier.
+
+1.3 "License Fee" means the fee paid by Licensee to Licensor for the applicable License Tier.
+
+1.4 "License Tier" means the specific license package (Basic, OEM, or Enterprise) purchased by Licensee, as specified in Exhibit A.
+
+1.5 "Software" means the AutonomAuth software program, in object code and source code form, including any updates, upgrades, modifications, revisions, corrections, or enhancements provided by Licensor.
+
+1.6 "Subscription Term" means the period of time for which Licensee has purchased a subscription to use the Software, including any renewal terms.
+
+## 2. LICENSE GRANT
+
+2.1 Subject to Licensee's compliance with the terms and conditions of this Agreement, including payment of applicable License Fees, Licensor grants to Licensee a non-exclusive, non-transferable, non-sublicensable license during the Subscription Term to:
+
+  (a) For Basic License: Install and use the Software for Licensee's internal business purposes on Licensee's infrastructure;
+  
+  (b) For OEM License: Incorporate the Software into Licensee's products for distribution to Licensee's customers, without requiring Licensee's customers to obtain a separate license from Licensor;
+  
+  (c) For Enterprise License: All rights granted in the Basic and OEM licenses, plus the right to modify the Software for Licensee's internal business purposes and for incorporation into Licensee's products.
+
+2.2 Licensee may create a reasonable number of backup copies of the Software solely for backup and archival purposes.
+
+## 3. RESTRICTIONS
+
+3.1 Except as expressly permitted by this Agreement or by applicable law, Licensee shall not:
+
+  (a) Distribute, sell, lease, rent, lend, or sublicense the Software to any third party except as expressly permitted by the applicable License Tier;
+  
+  (b) Modify, alter, adapt, translate, or create derivative works of the Software except as expressly permitted by the applicable License Tier;
+  
+  (c) Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software, except to the extent such activities are expressly permitted by applicable law;
+  
+  (d) Remove, alter, or obscure any proprietary notices, labels, or marks from the Software or Documentation;
+  
+  (e) Use the Software to create a competing product or service;
+  
+  (f) Use the Software for any purpose prohibited by applicable law.
+
+## 4. FEES AND PAYMENT
+
+4.1 Licensee shall pay Licensor the License Fees for the selected License Tier as set forth in Exhibit A.
+
+4.2 License Fees are payable annually in advance, unless otherwise specified in Exhibit A.
+
+4.3 All License Fees are non-refundable except as expressly provided in this Agreement.
+
+4.4 Licensor reserves the right to change the License Fees upon renewal of the Subscription Term by providing at least sixty (60) days' prior written notice to Licensee.
+
+## 5. TERM AND TERMINATION
+
+5.1 This Agreement commences on the Effective Date and continues for the initial Subscription Term. Thereafter, the Agreement will automatically renew for additional Subscription Terms of the same duration unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current Subscription Term.
+
+5.2 Either party may terminate this Agreement if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days after receiving written notice of the breach.
+
+5.3 Upon termination or expiration of this Agreement:
+
+  (a) All licenses granted under this Agreement will immediately terminate;
+  
+  (b) Licensee must cease all use of the Software and Documentation;
+  
+  (c) Licensee must either destroy or return to Licensor all copies of the Software and Documentation in Licensee's possession or control;
+  
+  (d) Any amounts owed to Licensor under this Agreement will become immediately due and payable.
+
+5.4 The following sections will survive termination of this Agreement: 3 (Restrictions), 6 (Ownership), 7 (Confidentiality), 8 (Disclaimer of Warranties), 9 (Limitation of Liability), 10 (Indemnification), and 12 (General).
+
+## 6. OWNERSHIP
+
+6.1 Licensor retains all right, title, and interest in and to the Software and Documentation, including all intellectual property rights therein. Nothing in this Agreement constitutes a sale or transfer of any ownership rights in the Software or Documentation.
+
+6.2 Licensee acknowledges that the Software in source code form remains a confidential trade secret of Licensor. Licensee agrees to hold the source code in strict confidence and not disclose it to any third party except as permitted by this Agreement.
+
+## 7. CONFIDENTIALITY
+
+7.1 "Confidential Information" means any non-public information of Licensor, including but not limited to, the Software source code, technical data, trade secrets, know-how, business methods, or any other information marked as confidential or proprietary.
+
+7.2 Licensee shall: (a) maintain the confidentiality of the Confidential Information; (b) not disclose Confidential Information to any third party without Licensor's prior written consent; and (c) use Confidential Information only as necessary to exercise its rights under this Agreement.
+
+7.3 The obligations in Section 7.2 do not apply to information that: (a) is or becomes publicly available through no fault of Licensee; (b) was in Licensee's possession before receipt from Licensor; (c) is rightfully received by Licensee from a third party without a duty of confidentiality; or (d) is required to be disclosed by law or court order, provided Licensee gives Licensor advance notice of such required disclosure.
+
+## 8. DISCLAIMER OF WARRANTIES
+
+8.1 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+8.2 LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS, THAT THE SOFTWARE WILL OPERATE IN THE COMBINATIONS LICENSEE MAY SELECT FOR USE, THAT THE OPERATION OF THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED.
+
+## 9. LIMITATION OF LIABILITY
+
+9.1 IN NO EVENT WILL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.2 LICENSOR'S TOTAL CUMULATIVE LIABILITY IN CONNECTION WITH THIS AGREEMENT, THE SOFTWARE, AND DOCUMENTATION, WHETHER IN CONTRACT, TORT, OR OTHERWISE, WILL NOT EXCEED THE AMOUNT OF LICENSE FEES PAID BY LICENSEE TO LICENSOR DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+## 10. INDEMNIFICATION
+
+10.1 Licensor will defend, indemnify, and hold harmless Licensee from and against any third-party claim alleging that the Software infringes any patent, copyright, trademark, or trade secret of such third party, provided that Licensee: (a) promptly notifies Licensor in writing of the claim; (b) gives Licensor sole control of the defense and settlement of the claim; and (c) provides Licensor with all reasonable assistance.
+
+10.2 If the Software becomes, or in Licensor's opinion is likely to become, the subject of an infringement claim, Licensor may at its option and expense: (a) procure for Licensee the right to continue using the Software; (b) modify the Software to make it non-infringing while maintaining substantially equivalent functionality; (c) replace the Software with functionally equivalent non-infringing software; or (d) terminate this Agreement and refund a pro-rated portion of the License Fees paid for the Software for the remainder of the Subscription Term.
+
+10.3 Licensor will have no obligation under this Section 10 for any claim arising from: (a) any modification of the Software not made by Licensor; (b) the combination, operation, or use of the Software with any product, device, or software not provided by Licensor; or (c) Licensee's use of the Software in a manner not in accordance with this Agreement or Documentation.
+
+10.4 This Section 10 states Licensor's entire obligation and Licensee's exclusive remedy for any claim of infringement.
+
+## 11. SUPPORT AND MAINTENANCE
+
+11.1 Licensor will provide the level of technical support and maintenance services corresponding to Licensee's License Tier, as described in Exhibit A.
+
+11.2 Support and maintenance services include: (a) providing updates and bug fixes to the Software; (b) responding to technical inquiries related to the Software; and (c) other services as described in Exhibit A.
+
+## 12. GENERAL
+
+12.1 This Agreement represents the entire agreement between the parties regarding the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral.
+
+12.2 This Agreement may not be amended or modified except by a written document signed by both parties.
+
+12.3 Licensee may not assign or transfer this Agreement or any rights or obligations hereunder, in whole or in part, without Licensor's prior written consent. Licensor may assign this Agreement without Licensee's consent in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets. Any attempted assignment in violation of this section will be void.
+
+12.4 This Agreement will be governed by and construed in accordance with the laws of [Your State/Country], without regard to its conflict of laws principles. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.
+
+12.5 Any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in [Your City, State/Country], and the parties hereby consent to the personal jurisdiction and venue therein.
+
+12.6 If any provision of this Agreement is held to be unenforceable or invalid, that provision will be enforced to the maximum extent possible, and the other provisions will remain in full force and effect.
+
+12.7 The failure of either party to enforce any right or provision of this Agreement will not be deemed a waiver of such right or provision.
+
+12.8 Notices under this Agreement must be in writing and will be deemed given when: (a) delivered personally; (b) sent by confirmed electronic mail; (c) sent by commercial overnight courier with written verification of receipt; or (d) sent by certified or registered mail, return receipt requested, postage prepaid.
+
+## EXHIBIT A: LICENSE TIERS AND FEES
+
+### 1. BASIC COMMERCIAL LICENSE
+
+**Intended For:** Single organization internal use
+
+**Annual Fee:** $5,000 per year
+
+**Features:**
+- Use within a single legal entity
+- Basic email support (response within 48 hours)
+- Access to bug fixes, Major and Minor updates
+- Single application deployment
+
+### 2. OEM LICENSE
+
+**Intended For:** Including AutonomAuth in products distributed to customers
+
+**Annual Fee:** $15,000 per year
+
+**Features:**
+- All Basic License features
+- Distribution rights with your applications/products
+- Priority email support (response within 24 hours)
+- Up to 5 application deployments
+
+### 3. ENTERPRISE LICENSE
+
+**Intended For:** Large organizations with extensive deployment needs
+
+**Annual Fee:** $50,000 per year
+
+**Features:**
+- All OEM License features
+- Source code modification rights
+- Phone support during business hours
+- Custom feature development (up to 40 hours per year)
+- Unlimited application deployments
+
+*All prices in USD. Prices subject to change upon renewal. Volume discounts available for multi-year commitments.*
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+LICENSOR: Owl and a Bungee Cord, LLC
+
+By: ____________________________
+
+Name: __________________________
+
+Title: ___________________________
+
+Date: ___________________________
+
+
+LICENSEE: [Customer Name]
+
+By: ____________________________
+
+Name: __________________________
+
+Title: ___________________________
+
+Date: ___________________________
